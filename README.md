@@ -20,7 +20,7 @@ This tool fetches commit data from your Bitbucket repositories and visualizes yo
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/bitbucket-commit-visualizer.git
+git clone https://github.com/KelceyW/bitbucket-commit-visualizer.git
 cd bitbucket-commit-visualizer
 pip install -r requirements.txt
 ```
